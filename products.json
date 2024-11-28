@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "productTitle": "Galaxy S23 Ultra",
+      "price": 1199.99,
+      "category": "Smartphone",
+      "des": "High-end smartphone with a 200MP camera and Snapdragon 8 Gen 2.",
+      "rating": 4.8,
+      "image": "https://via.placeholder.com/150?text=Galaxy+S23+Ultra"
+    },
+    {
+      "id": 2,
+      "productTitle": "MacBook Pro 16-inch",
+      "price": 2499.99,
+      "category": "Laptop",
+      "des": "Apple's flagship laptop with M2 Pro chip, 16GB RAM, and 512GB SSD.",
+      "rating": 4.9,
+      "image": "https://via.placeholder.com/150?text=MacBook+Pro+16-inch"
+    },
+    {
+      "id": 3,
+      "productTitle": "Apple Watch Series 9",
+      "price": 399.99,
+      "category": "Watch",
+      "des": "Smartwatch with advanced health monitoring and S9 processor.",
+      "rating": 4.7,
+      "image": "https://via.placeholder.com/150?text=Apple+Watch+Series+9"
+    },
+    {
+      "id": 4,
+      "productTitle": "AirPods Pro 2nd Gen",
+      "price": 249.99,
+      "category": "Accessories",
+      "des": "Noise-canceling wireless earbuds with spatial audio.",
+      "rating": 4.6,
+      "image": "https://via.placeholder.com/150?text=AirPods+Pro+2nd+Gen"
+    },
+    {
+      "id": 5,
+      "productTitle": "Google Pixel 8 Pro",
+      "price": 999.99,
+      "category": "Smartphone",
+      "des": "AI-powered smartphone with Tensor G3 and 50MP camera.",
+      "rating": 4.5,
+      "image": "https://via.placeholder.com/150?text=Google+Pixel+8+Pro"
+    },
+    {
+      "id": 6,
+      "productTitle": "Dell XPS 13 Plus",
+      "price": 1499.99,
+      "category": "Laptop",
+      "des": "Ultra-portable laptop with 13.4-inch display and 12th Gen Intel processor.",
+      "rating": 4.4,
+      "image": "https://via.placeholder.com/150?text=Dell+XPS+13+Plus"
+    },
+    {
+      "id": 7,
+      "productTitle": "Garmin Forerunner 965",
+      "price": 599.99,
+      "category": "Watch",
+      "des": "Advanced multisport GPS smartwatch for fitness enthusiasts.",
+      "rating": 4.8,
+      "image": "https://via.placeholder.com/150?text=Garmin+Forerunner+965"
+    },
+    {
+      "id": 8,
+      "productTitle": "Logitech MX Master 3S",
+      "price": 99.99,
+      "category": "Accessories",
+      "des": "Ergonomic wireless mouse with ultra-fast scrolling.",
+      "rating": 4.9,
+      "image": "https://via.placeholder.com/150?text=Logitech+MX+Master+3S"
+    },
+    {
+      "id": 9,
+      "productTitle": "iPhone 15 Pro Max",
+      "price": 1299.99,
+      "category": "Smartphone",
+      "des": "Premium Apple smartphone with A17 Pro chip and titanium design.",
+      "rating": 4.9,
+      "image": "https://via.placeholder.com/150?text=iPhone+15+Pro+Max"
+    },
+    {
+      "id": 10,
+      "productTitle": "HP Spectre x360",
+      "price": 1599.99,
+      "category": "Laptop",
+      "des": "2-in-1 convertible laptop with 13th Gen Intel processor and OLED display.",
+      "rating": 4.5,
+      "image": "https://via.placeholder.com/150?text=HP+Spectre+x360"
+    },
+    {
+      "id": 11,
+      "productTitle": "Samsung Galaxy Watch 6",
+      "price": 349.99,
+      "category": "Watch",
+      "des": "Stylish smartwatch with advanced sleep tracking and health features.",
+      "rating": 4.6,
+      "image": "https://via.placeholder.com/150?text=Samsung+Galaxy+Watch+6"
+    },
+    {
+      "id": 12,
+      "productTitle": "Anker PowerCore 20,000mAh",
+      "price": 59.99,
+      "category": "Accessories",
+      "des": "Portable power bank with high-speed charging capabilities.",
+      "rating": 4.8,
+      "image": "https://via.placeholder.com/150?text=Anker+PowerCore"
+    },
+    {
+      "id": 13,
+      "productTitle": "OnePlus 11",
+      "price": 749.99,
+      "category": "Smartphone",
+      "des": "Flagship killer smartphone with Snapdragon 8 Gen 2 and fast charging.",
+      "rating": 4.7,
+      "image": "https://via.placeholder.com/150?text=OnePlus+11"
+    },
+    {
+      "id": 14,
+      "productTitle": "Microsoft Surface Laptop 5",
+      "price": 1299.99,
+      "category": "Laptop",
+      "des": "Sleek laptop with a 15-inch touchscreen and 12th Gen Intel Core.",
+      "rating": 4.6,
+      "image": "https://via.placeholder.com/150?text=Surface+Laptop+5"
+    },
+    {
+      "id": 15,
+      "productTitle": "Fitbit Versa 4",
+      "price": 229.99,
+      "category": "Watch",
+      "des": "Fitness-focused smartwatch with heart rate and sleep tracking.",
+      "rating": 4.3,
+      "image": "https://via.placeholder.com/150?text=Fitbit+Versa+4"
+    },
+    {
+      "id": 16,
+      "productTitle": "Sony WH-1000XM5",
+      "price": 349.99,
+      "category": "Accessories",
+      "des": "Industry-leading noise-canceling over-ear headphones.",
+      "rating": 4.8,
+      "image": "https://via.placeholder.com/150?text=Sony+WH-1000XM5"
+    },
+    {
+      "id": 17,
+      "productTitle": "Xiaomi 13 Pro",
+      "price": 899.99,
+      "category": "Smartphone",
+      "des": "Flagship smartphone with Leica-tuned cameras and Snapdragon 8 Gen 2.",
+      "rating": 4.6,
+      "image": "https://via.placeholder.com/150?text=Xiaomi+13+Pro"
+    },
+    {
+      "id": 18,
+      "productTitle": "Lenovo ThinkPad X1 Carbon",
+      "price": 1799.99,
+      "category": "Laptop",
+      "des": "Business-class ultrabook with Intel vPro and a 14-inch 2K display.",
+      "rating": 4.7,
+      "image": "https://via.placeholder.com/150?text=ThinkPad+X1+Carbon"
+    },
+    {
+      "id": 19,
+      "productTitle": "Polar Grit X Pro",
+      "price": 499.99,
+      "category": "Watch",
+      "des": "Outdoor-focused smartwatch with rugged design and navigation tools.",
+      "rating": 4.5,
+      "image": "https://via.placeholder.com/150?text=Polar+Grit+X+Pro"
+    },
+    {
+      "id": 20,
+      "productTitle": "Belkin BoostCharge Pro 3-in-1",
+      "price": 149.99,
+      "category": "Accessories",
+      "des": "Wireless charging dock for iPhone, Apple Watch, and AirPods.",
+      "rating": 4.6,
+      "image": "https://via.placeholder.com/150?text=Belkin+BoostCharge"
+    }
+  ]
+  
